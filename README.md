@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @sanje23
+- 👀 I’m interested in Machine Learning, AI-driven web applications, and Full Stack Development.
+- 🌱 I’m currently learning ML, DSA .
+- 💞️ I’m looking to collaborate on innovative ML projects or real-world problem-solving applications.
+- 📫 How to reach me: rameshsanje23@gmail.com | https://www.linkedin.com/in/sanjeevir23
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a lazy investor!
