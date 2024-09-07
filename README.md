@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanje23
+- 👋 Hi, I’m SANJEEVI
 - 👀 I’m interested in Machine Learning, AI-driven web applications, and Full Stack Development.
 - 🌱 I’m currently learning ML, DSA .
 - 💞️ I’m looking to collaborate on innovative ML projects or real-world problem-solving applications.
