@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm all about **Machine Learning**, **AI-driven web applic
 - 💡 **Collaboration**: Always open for groundbreaking **ML projects** and solving real-world challenges with AI.
 - 📬 **Contact**: Ping me at [rameshsanje23@gmail.com](mailto:rameshsanje23@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/sanjeevir23).
 - 😎 **Pronouns**: He/Him
-- 💭 **Fun fact**: The brain isn't the only thing I hack... I’m a lazy investor!
+- 💭 **Fun fact**: I’m a lazy investor!
 
 ## 💥 **Tech Stack**: 
 - 🔥 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -22,7 +22,6 @@ Welcome to my GitHub! I'm all about **Machine Learning**, **AI-driven web applic
 
 ## 🌱 **Latest Mind-blowing Projects**:
 - 🌟 **Recipenator**: A full-stack application that whips up **recipe recommendations** based on the ingredients you have in hand.
-- 🔮 **Astrology Web App**: Unlock personalized **astrology predictions** daily, with premium features tailored for specific dates. It's not just about stars, it's about *star* power!
 
 ---
 
