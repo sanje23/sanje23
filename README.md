@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm all about **Machine Learning**, **AI-driven web applic
 - ⚙️ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## 🌟 **GitHub Stats**: 
-![Sanjeevi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjeevir23&show_icons=true&theme=radical)
+![Sanjeevi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanje23&show_icons=true&theme=radical)
 
 ## 🌱 **Latest Mind-blowing Projects**:
 - 🌟 **Recipenator**: A full-stack application that whips up **recipe recommendations** based on the ingredients you have in hand.
