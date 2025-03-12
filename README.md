@@ -1,28 +1,59 @@
-# Hi, I'm **Sanjeevi** 👋
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  Hey, I'm <b>Sanjeevi</b> 👨‍💻
+</h1>
 
-Welcome to my GitHub! I'm all about **Machine Learning**, **AI-driven web applications**, and **Full Stack Development**. Let's dive into some mind-blowing tech:
-
-### 🚀 **What's Cooking in My Brain?**
-- 🌱 **Learning**: I'm constantly diving deeper into **ML** and **DSA**.
-- 💡 **Collaboration**: Always open for groundbreaking **ML projects** and solving real-world challenges with AI.
-- 📬 **Contact**: Ping me at [rameshsanje23@gmail.com](mailto:rameshsanje23@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/sanjeevir23).
-- 😎 **Pronouns**: He/Him
-- 💭 **Fun fact**: I’m a lazy investor!
-
-## 💥 **Tech Stack**: 
-- 🔥 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ⚡ ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-- 💣 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-- 💡 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- 🌈 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- ⚙️ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-## 🌟 **GitHub Stats**: 
-![Sanjeevi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanje23&show_icons=true&theme=radical)
-
-## 🌱 **Latest Mind-blowing Projects**:
-- 🌟 **Recipenator**: A full-stack application that whips up **recipe recommendations** based on the ingredients you have in hand.
+<p align="center">
+  <i>Passionate about AI-driven Web Apps & Full Stack Development.</i>
+</p>
 
 ---
 
-Feel free to explore my repositories, let’s **hack the future** together! 🚀
+<h2>🔥 What's Brewing in My Mind?</h2>
+
+- 🚀 **Learning**: Mastering **Full Stack**, and **DSA** one commit at a time.
+- 🤝 **Collaboration**: Open to impactful **Web application projects** solving real-world problems.
+- 📩 **Contact Me**: [rameshsanje23@gmail.com](mailto:rameshsanje23@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sanjeevir23)  
+- ⚡ **Fun fact**: I’m a **lazy investor** but a **hardcore coder** 😎  
+
+---
+
+<h2>🚀 Tech Stack & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,git,github,flask,nodejs" />
+</p>
+
+---
+
+<h2>🌟 Featured Project</h2>
+
+🚀 **Recipenator**  
+A full-stack AI-powered **recipe recommendation system** 🧑‍🍳 that suggests **recipes based on available ingredients**!  
+👉 [Check it out!](https://github.com/sanje23/recipenator)
+
+---
+
+<h2>🏆 LeetCode Stats</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/iamsanje/">
+    <img src="https://leetcard.jacoblin.cool/iamsanje?theme=dark&font=Karma&ext=heatmap" />
+  </a>
+</p>
+
+---
+
+<h2>📊 Top Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanje23&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+<h2>⚡ Let's Connect & Collaborate</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjeevir23"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:rameshsanje23@gmail.com"><img src="https://
